@@ -1,0 +1,10 @@
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\bin\Debug\Juliana RA2.exe.config
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\bin\Debug\Juliana RA2.exe
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\bin\Debug\Juliana RA2.pdb
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana RA2.csproj.AssemblyReference.cache
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana_RA2.Form1.resources
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana_RA2.Properties.Resources.resources
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana RA2.csproj.GenerateResource.cache
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana RA2.csproj.CoreCompileInputs.cache
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana RA2.exe
+C:\Users\jorle\source\repos\Juliana RA2\Juliana RA2\obj\Debug\Juliana RA2.pdb
